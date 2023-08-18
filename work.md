@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/work/dlbd.png
       alt: dlbd
-    description: Founded and built from scratch the Alkemy's internal Deep Learning & Big Data Department (DL&BD), an innovation team focusing on disruptive approaches to data and analytics. I am co-leading it as part of the Strategy & Operations (S&O) area. Apart from S&O, DL&BD is composed of other three areas, R&D, Infrastructure and Education. This structure reflects our effort to develop solutions, deploy them and share the know-how we gain in doing that. As innovation hub, we are constantly looking for interactions and contaminations with other teams and institutions. For example, we work closely with universities on research activities around data ethics and advanced application of machine learning, and are cooperating with a prominent Italian design agency for the application of design thinking to data science projects.
+    description: Founded and built from scratch the Alkemy's internal Deep Learning & Big Data Department (DL&BD), an innovation team focusing on disruptive approaches to data and analytics. I am co-leading it as part of the Strategy & Operations (S&O) area.
   - title: BRIO
     image:
       src: /assets/img/work/brio.png
@@ -17,7 +17,7 @@ items:
     image:
       src: /assets/img/work/philtec.png
       alt: philtech
-    description: Part of the Advisory Board of PHILTECH, the Philosophy of Technology Research Center of UniMi (University of Milan).
+    description: As external expert I am part of the Advisory Board of PHILTECH, the Philosophy of Technology Research Center of UniMi (University of Milan). My main focus is on data technologies, their foundational issues and their impact on society.
   - title: Teaching and Mentoring
     image:
       src: /assets/img/work/teaching.png
