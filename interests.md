@@ -3,7 +3,7 @@ layout: interests
 title: Interests
 slug: /interests
 items:
-    - title: Data technologies
+  - title: Data technologies
     image:
       src: /assets/img/interests/data.png
       alt: data
