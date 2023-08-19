@@ -12,13 +12,13 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Home
-      slug: /
+      slug: 
     - name: Work
     - name: Interests
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: dposillipo@outlook.com
