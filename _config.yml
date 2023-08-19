@@ -4,7 +4,7 @@
 title: Davide Posillipo Webpage
 description: >- # this means to ignore newlines until "baseurl:"
   Personal webpage of Davide Posillipo
-baseurl: "" # the subpath of the site
+baseurl: "/dp" # the subpath of the site
 url: "https://davideposillipo.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpeg
 google_analytics: "UA-121636368-3"
