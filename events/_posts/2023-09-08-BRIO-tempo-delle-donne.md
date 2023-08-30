@@ -15,6 +15,3 @@ As industrial partner of [BRIO](https://sites.unimi.it/brio/), I am working on t
 We will be presenting the tool on Friday 8th afternoon, Saturday 9th and Sunday 10th September, 2023. The location is the wonderfull Triennale in Milano, close to Parco Sempione. [Here](https://eventi.corriere.it/il-tempo-delle-donne-2023/evento/algoritmo-e-pregiudizio-2/) the details for the Saturday session.
 
 Our intervention will happen within the 10th edition of Il Tempo delle Donne, a public event dedicated to equality, fairness and culture. [Here](https://27esimaora.corriere.it/il-tempo-delle-donne/) to learn more. 
-
-<br />
-
