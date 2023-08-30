@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Post example"
-date:   2019-10-26 10:00:40
-blurb: "A look at an example post using Bay Jekyll theme."
+title:  "Algoritmo e pregiudizio. BRIOxAlkemy, un tool per la verifica di bias in IA"
+date:   2023-09-08 10:00:40
+blurb: "First results of the BRIOxAlkemy tool for bias detection in AI"
 og_image: /assets/img/content/tempo-delle-donne/tempo-delle-donne.png
 ---
 
