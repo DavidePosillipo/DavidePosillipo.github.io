@@ -3,10 +3,10 @@ layout: post
 title:  "Algoritmo e pregiudizio. BRIOxAlkemy, un tool per la verifica di bias in IA"
 date:   2023-09-08 15:00:00
 blurb: "First results of the BRIOxAlkemy tool for bias detection in AI"
-og_image: /assets/img/content/tempo_delle_donne/tempo_delle_donne.png
+og_image: /assets/img/content/tempo-delle-donne/tempo-delle-donne.png
 ---
 
-<img src="{{ "/assets/img/content/tempo_delle_donne/tempo_delle_donne.png" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/tempo-delle-donne/tempo-delle-donne.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
