@@ -9,6 +9,9 @@ url: "https://davideposillipo.github.io" # the base hostname & protocol for the 
 og_image: /assets/img/profile-pic.jpeg
 google_analytics: "UA-121636368-3"
 
+# Publish posts with future date
+future: true
+
 header:
   pages:
     - name: Home
