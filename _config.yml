@@ -15,10 +15,11 @@ header:
       slug: /
     - name: Work
     - name: Interests
+    - name: Events
     - name: Blog
 
 footer:
-  show_powered_by: false
+  show_powered_by: true
   contact:
     - name: Email
       value: dposillipo@outlook.com
