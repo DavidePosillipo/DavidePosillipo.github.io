@@ -5,8 +5,13 @@ date:   2023-11-07 23:00:00
 blurb: "Some ranting about how it is hard to talk to people from other fields"
 og_image: /assets/img/content/dialogue-or-something-else/ignant-art-gideon-rubin-12.jpg
 ---
+<img src="{{ "/assets/img/content/dialogue-or-something-else/ignant-art-gideon-rubin-12.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<br />
+<br />
 
-On the ways Data Science and other fields could have a meaningful dialogue, and my mixed feelings about it. 
+*On the ways Data Science and other fields could have a meaningful dialogue, and my mixed feelings about it.* 
+
+Written without usage of LLMs. 
 
 <br />
 
@@ -23,8 +28,8 @@ From my experience, this dialogue is in fact often plagued by a factor: a strong
 
 It could be interesting to focus on the history of Statistics and Data Science, how they evolved as western society evolved, how their deployment in daily activities followed changes in economic paradigm, through a plethora of conflicting incentives and interests (and I highly recommend this study to every colleague). This perspective helps me to understand some part of the negative prejudice I mentioned before, but it could provide the whole answer only if for a moment I considered Data Science as something separated from society and from the non-tech communities, something that had its historical development as autonomous entity. Something that *acted upon society*, ultimately ruining it, or making it worse (depending on the flavor of the prejudice). But Data Science is, as I tried to explain – and as its history actually proves – a formalized, mathematized reflection of the world as we experience it. Treating it as an imposed necessary evil is then, from my point of view, a limited position. 
 
-I am also skeptical about the instrumental mode of dialogue: using Data Science (especially in its more recent manifestations that go into the domain of “Generative AI”, more precisely describable as generative deep learning) as a sideshow in events of various sorts, with the intention of mocking its limitation or generating fears, or a combination of both. 
+I am also skeptical about the instrumental mode of dialogue: using Data Science (especially in its more recent manifestations that go into the domain of “Generative AI”, more precisely describable as generative deep learning) as a sideshow in events of various sorts, with the intention of mocking its limitations or generating fears, or a combination of both. 
 
 These two dialogue modes are reducing the discussion to a very limited spectrum of possibilities, dominated by suspect, fear, or the need of “making something out” of Data Science. But if the intention is to understand better each other and work together for good causes, then I think something is still missing. 
 
-Despite these issues I am experiencing, I still believe that promoting a dialogue between Data Science and every sphere of our complex society is much needed today. This will hopefully promote a more nuanced and reasonable perspective of Data Science and more interesting ways of interacting with it, that can go beyond fear, suspect or utilitarian interest. Somehow, maybe, even looking at Data Science as though we were looking at a (mathematical) mirror, to understand better ourselves. 
+Despite these issues I am experiencing, I still believe that promoting a dialogue between Data Science and every sphere of our complex society is much needed today. I am still optimistic also thanks to the positive examples of meaningful dialogue I had so far that, despite being the minority, give me hope. All of this will hopefully promote a more nuanced and reasonable perspective of Data Science and more interesting ways of interacting with it, that can go beyond fear, suspect or utilitarian interest. Somehow, maybe, even looking at Data Science as though we were looking at a (mathematical) mirror, to understand better ourselves. 
